@@ -1,1 +1,1 @@
-web: node web.js
+app: coffee bin/hubot -a campfire -n phobot
